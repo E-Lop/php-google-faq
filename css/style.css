@@ -55,7 +55,7 @@ a {
   margin: 0 auto;
 }
 .main_content {
-  margin-top: 50px;
+  margin-block: 50px;
 }
 .main_content h2 {
   margin-bottom: 10px;
